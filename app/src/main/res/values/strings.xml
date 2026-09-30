@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+
+    <string name="hint_enter_text">Enter text here…</string>
+    <string name="label_select_metric">Select what to count:</string>
+    <string name="btn_count">Count</string>
+    <string name="label_result">Result:</string>
+    <string name="result_placeholder">—</string>
+    <string name="toast_empty_text">Please enter some text!</string>
+
+    <string-array name="metric_options">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Chars</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
